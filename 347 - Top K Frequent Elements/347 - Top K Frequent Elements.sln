@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "347 - Top K Frequent Elements", "347 - Top K Frequent Elements\347 - Top K Frequent Elements.csproj", "{B0E7392D-5566-4AF3-8D63-86C217C0878F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0E7392D-5566-4AF3-8D63-86C217C0878F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E7392D-5566-4AF3-8D63-86C217C0878F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E7392D-5566-4AF3-8D63-86C217C0878F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E7392D-5566-4AF3-8D63-86C217C0878F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44E6770D-3D6B-462B-8530-AFE55A4F60A7}
+	EndGlobalSection
+EndGlobal

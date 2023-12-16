@@ -13,13 +13,13 @@ namespace _704.Binary_Search
             int target1 = 9;
             int target2 = 2;
 
-            Console.WriteLine(Search(nums, target1));
-            Console.WriteLine(Search(nums, target2));
+            Console.WriteLine(OwnCreatedSearch(nums, target1));
+            Console.WriteLine(OwnCreatedSearch(nums, target2));
 
             Console.ReadLine();
         }
 
-        public static int Search(int[] nums, int target)
+        public static int OwnCreatedSearch(int[] nums, int target)
         {
             int left = 0;
             int right = nums.Length - 1;
@@ -41,6 +41,12 @@ namespace _704.Binary_Search
             }
 
             return -1;
+        }
+
+        public static int BinarySearch(int[] nums, int target)
+        {
+            int i =  Array.BinarySearch(nums, target);
+            return (i < 0) ? -1 : i;
         }
     }
 }

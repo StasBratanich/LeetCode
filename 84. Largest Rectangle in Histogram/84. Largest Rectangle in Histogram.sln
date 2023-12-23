@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "74. Search a 2D Matrix", "74. Search a 2D Matrix.csproj", "{B7153E2B-C7AD-4BDA-9EEF-BC4099253F6D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "84. Largest Rectangle in Histogram", "84. Largest Rectangle in Histogram.csproj", "{C29D13EA-66EE-44E4-B6FC-2BBE75A8AF9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C29D13EA-66EE-44E4-B6FC-2BBE75A8AF9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C29D13EA-66EE-44E4-B6FC-2BBE75A8AF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C29D13EA-66EE-44E4-B6FC-2BBE75A8AF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C29D13EA-66EE-44E4-B6FC-2BBE75A8AF9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E295E3E-1523-49CC-9C78-469891B97767}
 	EndGlobalSection
 EndGlobal

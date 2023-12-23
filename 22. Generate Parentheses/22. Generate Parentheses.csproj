@@ -4,9 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{771E2820-28E9-493A-ABED-8FBBD39F90F8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_74.Search_a_2D_Matrix</RootNamespace>
-    <AssemblyName>_74.Search_a_2D_Matrix</AssemblyName>
+    <RootNamespace>_22.Generate_Parentheses</RootNamespace>
+    <AssemblyName>_22.Generate_Parentheses</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
